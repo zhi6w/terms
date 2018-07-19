@@ -28,7 +28,8 @@ By purchasing premium you expressly understand and agree to our refund policy:
 
 Within  30 days of your premium payment date as shown on your payment bill, you can request a full refund by contacting us. no refund of any kind will be permitted after 30 days of your premium payment date.
 
-For any customer who purchased premium in Apple Inc.’s App Store, please contact Apple Inc.’s support team: http://reportaproblem.apple.com/. App Store does not allow developers to issue refund for app store purchases made by customers.
+For any customer who purchased premium in Apple Inc.’s App Store, please contact Apple Inc.’s support team: http://reportaproblem.apple.com/.   
+App Store does not allow developers to issue refund for app store purchases made by customers.
 
 
 ### Change of Terms of Service

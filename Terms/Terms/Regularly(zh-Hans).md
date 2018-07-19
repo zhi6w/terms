@@ -26,7 +26,8 @@ Zhi Zhou 可自行决定随时修改订阅的费用。任何订阅费变更将�
 
 自您支付账单上显示您购买高级版的日期起 30 天之内，您可以联系我们退货并要求全额退款。而在您购买高级版的 30 天之后，我们不再接受退货和任何形式的退款。
 
-对于在 Apple Inc. 的 App Store 中购买了高级版的客户，请联系 Apple Inc. 的技术支持团队退款：http://reportaproblem.apple.com。App Store 不允许开发者为在 App Store 中进行支付的客户处理退款。
+对于在 Apple Inc. 的 App Store 中购买了高级版的客户，请联系 Apple Inc. 的技术支持团队退款：http://reportaproblem.apple.com。  
+App Store 不允许开发者为在 App Store 中进行支付的客户处理退款。
 
 
 ### 服务条款的变更
