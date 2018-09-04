@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D906D6BA213E6BBD00845816 /* Shorthand(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6B9213E6BBD00845816 /* Shorthand(en).md */; };
+		D906D6BC213E6BC600845816 /* Shorthand(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6BB213E6BC600845816 /* Shorthand(zh-Hans).md */; };
 		D9A05E6B2100AADE00E7A9C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A05E6A2100AADE00E7A9C4 /* AppDelegate.swift */; };
 		D9A05E6D2100AADE00E7A9C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A05E6C2100AADE00E7A9C4 /* ViewController.swift */; };
 		D9A05E702100AADE00E7A9C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9A05E6E2100AADE00E7A9C4 /* Main.storyboard */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D906D6B9213E6BBD00845816 /* Shorthand(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(en).md"; sourceTree = "<group>"; };
+		D906D6BB213E6BC600845816 /* Shorthand(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hans).md"; sourceTree = "<group>"; };
 		D9A05E672100AADE00E7A9C4 /* Terms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Terms.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A05E6A2100AADE00E7A9C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9A05E6C2100AADE00E7A9C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				D9A05E802100AB2F00E7A9C4 /* Regularly(en).md */,
 				D9A05E822100AB4000E7A9C4 /* Begins(zh-Hans).md */,
 				D9A05E842100AB4A00E7A9C4 /* Begins(en).md */,
+				D906D6B9213E6BBD00845816 /* Shorthand(en).md */,
+				D906D6BB213E6BC600845816 /* Shorthand(zh-Hans).md */,
 			);
 			path = Terms;
 			sourceTree = "<group>";
@@ -144,10 +150,12 @@
 			files = (
 				D9A05E852100AB4A00E7A9C4 /* Begins(en).md in Resources */,
 				D9A05E752100AAE000E7A9C4 /* LaunchScreen.storyboard in Resources */,
+				D906D6BC213E6BC600845816 /* Shorthand(zh-Hans).md in Resources */,
 				D9A05E812100AB2F00E7A9C4 /* Regularly(en).md in Resources */,
 				D9A05E7F2100AB2400E7A9C4 /* Regularly(zh-Hans).md in Resources */,
 				D9A05E722100AAE000E7A9C4 /* Assets.xcassets in Resources */,
 				D9A05E702100AADE00E7A9C4 /* Main.storyboard in Resources */,
+				D906D6BA213E6BBD00845816 /* Shorthand(en).md in Resources */,
 				D9A05E832100AB4000E7A9C4 /* Begins(zh-Hans).md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
