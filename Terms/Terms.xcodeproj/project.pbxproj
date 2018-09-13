@@ -19,6 +19,8 @@
 		D9A05E832100AB4000E7A9C4 /* Begins(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D9A05E822100AB4000E7A9C4 /* Begins(zh-Hans).md */; };
 		D9A05E852100AB4A00E7A9C4 /* Begins(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D9A05E842100AB4A00E7A9C4 /* Begins(en).md */; };
 		D9ABF5E92141651500678210 /* Shorthand(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9ABF5E82141651500678210 /* Shorthand(zh-Hant).md */; };
+		D9E81112214A9BC100362E48 /* Regularly(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E81111214A9BC100362E48 /* Regularly(zh-Hant).md */; };
+		D9E81114214A9C2900362E48 /* Begins(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E81113214A9C2900362E48 /* Begins(zh-Hant).md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		D9A05E822100AB4000E7A9C4 /* Begins(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hans).md"; sourceTree = "<group>"; };
 		D9A05E842100AB4A00E7A9C4 /* Begins(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(en).md"; sourceTree = "<group>"; };
 		D9ABF5E82141651500678210 /* Shorthand(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hant).md"; sourceTree = "<group>"; };
+		D9E81111214A9BC100362E48 /* Regularly(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(zh-Hant).md"; sourceTree = "<group>"; };
+		D9E81113214A9C2900362E48 /* Begins(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hant).md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,14 +72,16 @@
 		D9A05E692100AADE00E7A9C4 /* Terms */ = {
 			isa = PBXGroup;
 			children = (
-				D9A05E7C2100AAEA00E7A9C4 /* Supporting Files */,
-				D9A05E7E2100AB2400E7A9C4 /* Regularly(zh-Hans).md */,
 				D9A05E802100AB2F00E7A9C4 /* Regularly(en).md */,
-				D9A05E822100AB4000E7A9C4 /* Begins(zh-Hans).md */,
+				D9A05E7E2100AB2400E7A9C4 /* Regularly(zh-Hans).md */,
+				D9E81111214A9BC100362E48 /* Regularly(zh-Hant).md */,
 				D9A05E842100AB4A00E7A9C4 /* Begins(en).md */,
+				D9A05E822100AB4000E7A9C4 /* Begins(zh-Hans).md */,
+				D9E81113214A9C2900362E48 /* Begins(zh-Hant).md */,
 				D906D6B9213E6BBD00845816 /* Shorthand(en).md */,
 				D906D6BB213E6BC600845816 /* Shorthand(zh-Hans).md */,
 				D9ABF5E82141651500678210 /* Shorthand(zh-Hant).md */,
+				D9A05E7C2100AAEA00E7A9C4 /* Supporting Files */,
 			);
 			path = Terms;
 			sourceTree = "<group>";
@@ -154,6 +160,8 @@
 				D9A05E852100AB4A00E7A9C4 /* Begins(en).md in Resources */,
 				D9A05E752100AAE000E7A9C4 /* LaunchScreen.storyboard in Resources */,
 				D906D6BC213E6BC600845816 /* Shorthand(zh-Hans).md in Resources */,
+				D9E81112214A9BC100362E48 /* Regularly(zh-Hant).md in Resources */,
+				D9E81114214A9C2900362E48 /* Begins(zh-Hant).md in Resources */,
 				D9A05E812100AB2F00E7A9C4 /* Regularly(en).md in Resources */,
 				D9A05E7F2100AB2400E7A9C4 /* Regularly(zh-Hans).md in Resources */,
 				D9A05E722100AAE000E7A9C4 /* Assets.xcassets in Resources */,
