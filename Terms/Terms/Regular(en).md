@@ -1,9 +1,9 @@
-# Regularly Terms of Service
+# Regular Terms of Service
 
 
-### Thanks for Choosing Regularly!
+### Thanks for Choosing Regular!
 
-Thanks for choosing Regularly! Regularly service ("Service") is provided by Zhi Zhou. By using our Service, you are agreeing to these Terms of Service ("Terms") and certify that you are over the age of 13. If you are using the Service on behalf of an organization or entity ("Organization"), then you are agreeing to these Terms on behalf of the Organization. In that case, "you" and "your" may refer to the Organization. Please read these terms carefully before start using our Service.
+Thanks for choosing Regular! Regular service ("Service") is provided by Zhi Zhou. By using our Service, you are agreeing to these Terms of Service ("Terms") and certify that you are over the age of 13. If you are using the Service on behalf of an organization or entity ("Organization"), then you are agreeing to these Terms on behalf of the Organization. In that case, "you" and "your" may refer to the Organization. Please read these terms carefully before start using our Service.
 
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
 
@@ -34,7 +34,7 @@ App Store does not allow developers to issue refund for app store purchases made
 
 ### Change of Terms of Service
 
-From time to time, Zhi Zhou may modify existing terms or update these terms with additional terms that apply to the Service. For example, Zhi Zhou may modify existing terms to reflect any mandatory changes to the law. You should check the terms regularly to keep informed.  
+From time to time, Zhi Zhou may modify existing terms or update these terms with additional terms that apply to the Service. For example, Zhi Zhou may modify existing terms to reflect any mandatory changes to the law. You should check the terms regular to keep informed.  
 we will also post notice of modification to these Terms on this page or via the email address you registered with us. Note, changes will not apply retroactively and will become effective 30 days after they are posted on our website. Changes addressing new functions for the Service or changes made for legal reasons may be effective immediately. You should discontinue your use of our Service if you do not agree with updated Terms.
 
 
@@ -106,3 +106,4 @@ All content downloaded, uploaded and/or otherwise obtained through the use of th
 
 If you have any questions about these Terms, please contact us. zhi6w@outlook.com
 
+```Update: November 26, 2018```
