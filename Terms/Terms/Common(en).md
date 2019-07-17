@@ -3,7 +3,7 @@
 
 ### Thanks for Choosing!
 
-Thanks for choosing! Service ("Service") is provided by Zhi Zhou. By using our Service, you are agreeing to these Terms of Service ("Terms") and certify that you are over the age of 13. If you are using the Service on behalf of an organization or entity ("Organization"), then you are agreeing to these Terms on behalf of the Organization. In that case, "you" and "your" may refer to the Organization. Please read these terms carefully before start using our Service.
+Thanks for choosing! Service ("Service") is provided by SongLin Han. By using our Service, you are agreeing to these Terms of Service ("Terms") and certify that you are over the age of 13. If you are using the Service on behalf of an organization or entity ("Organization"), then you are agreeing to these Terms on behalf of the Organization. In that case, "you" and "your" may refer to the Organization. Please read these terms carefully before start using our Service.
 
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
 
@@ -18,9 +18,9 @@ A valid payment method, including credit card, is required to process the paymen
 
 Should automatic billing fail to occur for any reason, Please contact us..
 
-Zhi Zhou, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+SongLin Han, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-Zhi Zhou will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+SongLin Han will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
@@ -34,7 +34,7 @@ App Store does not allow developers to issue refund for app store purchases made
 
 ### Change of Terms of Service
 
-From time to time, Zhi Zhou may modify existing terms or update these terms with additional terms that apply to the Service. For example, Zhi Zhou may modify existing terms to reflect any mandatory changes to the law. You should check the terms regularly to keep informed.  
+From time to time, SongLin Han may modify existing terms or update these terms with additional terms that apply to the Service. For example, SongLin Han may modify existing terms to reflect any mandatory changes to the law. You should check the terms regularly to keep informed.  
 we will also post notice of modification to these Terms on this page or via the email address you registered with us. Note, changes will not apply retroactively and will become effective 30 days after they are posted on our website. Changes addressing new functions for the Service or changes made for legal reasons may be effective immediately. You should discontinue your use of our Service if you do not agree with updated Terms.
 
 
@@ -46,14 +46,14 @@ Privacy policies explain how we treat your personal data and protect your privac
 ### Your Content in Our Service
 
 Our service allows you to upload, download and store content, including but not limited to, information, text, graphics, videos, audios, or other material ("Content"). You retain ownership of any intellectual property rights that you hold in that Content.   
-When you upload, store, send or receive Content to or through our Service, you give Zhi Zhou and its service partners a worldwide license to host, store, upload and download this Content and only for the purpose of providing Service strictly to you and your use of the Content. We reserve our right at all times, but are not obligated, to remove or refuse to distribute any Content through the Service including your Content.
+When you upload, store, send or receive Content to or through our Service, you give SongLin Han and its service partners a worldwide license to host, store, upload and download this Content and only for the purpose of providing Service strictly to you and your use of the Content. We reserve our right at all times, but are not obligated, to remove or refuse to distribute any Content through the Service including your Content.
 
 
 ### Intellectual Property
 
 When the Service requires or includes downloadable software, this software may update automatically on your device once a new version or features become available to you. Some platforms may let you adjust your automatic update settings.
 
-Zhi Zhou gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided by Zhi Zhou as part of the Service. You may not copy, modify, distribute, sell, or lease any part of our Service or included software, nor may you reverse engineer or attempt to extract the source code of the software, unless local laws prohibit those restrictions or you have our written permission.
+SongLin Han gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided by SongLin Han as part of the Service. You may not copy, modify, distribute, sell, or lease any part of our Service or included software, nor may you reverse engineer or attempt to extract the source code of the software, unless local laws prohibit those restrictions or you have our written permission.
 
 
 ### Modifying and Terminating Our Service
@@ -70,9 +70,9 @@ You may access your Service data via the Application Program Interface (â€œAPIâ€
 
 ### Using Our Service
 
-You must follow any policies made available to you within the Service. You may only use our Service as permitted by law. Zhi Zhou may investigate or suspend or terminate our Service to you at any time if we find your use of our Service violates the Terms and any policies.
+You must follow any policies made available to you within the Service. You may only use our Service as permitted by law. SongLin Han may investigate or suspend or terminate our Service to you at any time if we find your use of our Service violates the Terms and any policies.
 
-Using our Service does not grant you ownership of any intellectual property rights in our Service or the content you may have access to. You may not use any copyrighted content in our Service unless you obtain permission from the content owner and/or are otherwise permitted by law. The Terms do not grant you the right to use any branding or logos used in our Service. Our Service may display some logos, trademarks, or branding materials that is not the property of Zhi Zhou. These types of content are the sole responsibility of the entity that makes it available.
+Using our Service does not grant you ownership of any intellectual property rights in our Service or the content you may have access to. You may not use any copyrighted content in our Service unless you obtain permission from the content owner and/or are otherwise permitted by law. The Terms do not grant you the right to use any branding or logos used in our Service. Our Service may display some logos, trademarks, or branding materials that is not the property of SongLin Han. These types of content are the sole responsibility of the entity that makes it available.
 
 You must not abuse and/or misuse our Service, including but not limited to, doing the following things:
 
@@ -83,18 +83,18 @@ You must not abuse and/or misuse our Service, including but not limited to, doin
 * Interfering with or disrupting the access of any user, host, or network;
 * Abusing or submitting excessively frequent requests to the Service via the API.
 
-Zhi Zhou, in its sole discretion, will determine abuse and/or misuse of our Service.
+SongLin Han, in its sole discretion, will determine abuse and/or misuse of our Service.
 
 
 ### Limited Liability for Our Service
 
 To the maximum extent permitted by law, the service is available "as is". you expressly understand and agree that:
 
-When permitted by law, Zhi Zhou and its service partners, licensors, employees, agents will not be responsible for any lost profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages under any circumstances.
+When permitted by law, SongLin Han and its service partners, licensors, employees, agents will not be responsible for any lost profits, revenues, or data, financial losses or indirect, special, consequential, exemplary, or punitive damages under any circumstances.
 
 Your use and/or purchase of service are all at your sole risk. the service is provided on an "as is" basis.
 
-Zhi Zhou does not warrant that:
+SongLin Han does not warrant that:
 
 * The service will meet all of your requirements at all times;
 * The service will be error-free and all errors in the service will be corrected;
@@ -104,5 +104,5 @@ All content downloaded, uploaded and/or otherwise obtained through the use of th
 
 ### Contact us
 
-If you have any questions about these Terms, please contact us. zhi6w@outlook.com
+If you have any questions about these Terms, please contact us. alisa.izhukova@mail.ru
 
